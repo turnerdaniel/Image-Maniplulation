@@ -1,0 +1,161 @@
+Filename: Images/Zoom/zIMG_1.ppm
+Date read: Mon 18 Dec 2017 15:05:01 GMT Standard Time
+Dimensions: 750 x 750
+Bit depth: 255
+Read time: 64ms
+Zoom level: 2x
+
+Filename: Images/Zoom/zIMG_1.ppm
+Date read: Mon 18 Dec 2017 15:21:58 GMT Standard Time
+Dimensions: 750 x 750
+Bit depth: 255
+Read time: 55ms
+Zoom level: 2x
+
+Filename: Images/Zoom/zIMG_1.ppm
+Date read: Mon 18 Dec 2017 15:25:49 GMT Standard Time
+Dimensions: 750 x 750
+Bit depth: 255
+Read time: 56ms
+Zoom level: 2x
+
+Filename: Images/Zoom/zIMG_1.ppm
+Date read: Mon 18 Dec 2017 15:41:39 GMT Standard Time
+Dimensions: 750 x 750
+Bit depth: 255
+Read time: 52ms
+Zoom level: 2x
+
+Filename: Images/Zoom/zIMG_1.ppm
+Date read: Mon 18 Dec 2017 15:42:50 GMT Standard Time
+Dimensions: 750 x 750
+Bit depth: 255
+Read time: 52ms
+Zoom level: 2x
+
+Filename: Images/Zoom/zIMG_1.ppm
+Date read: Mon 18 Dec 2017 15:50:37 GMT Standard Time
+Dimensions: 750 x 750
+Bit depth: 255
+Read time: 50ms
+Zoom level: 2x
+
+Filename: Images/Zoom/zIMG_1.ppm
+Date read: Mon 18 Dec 2017 15:57:45 GMT Standard Time
+Dimensions: 750 x 750
+Bit depth: 255
+Read time: 59ms
+Zoom level: 2x
+
+Filename: Images/Zoom/zIMG_1.ppm
+Date read: Mon 18 Dec 2017 15:58:28 GMT Standard Time
+Dimensions: 750 x 750
+Bit depth: 255
+Read time: 55ms
+Zoom level: 4x
+
+Filename: Images/Zoom/zIMG_1.ppm
+Date read: Mon 18 Dec 2017 16:00:09 GMT Standard Time
+Dimensions: 750 x 750
+Bit depth: 255
+Read time: 51ms
+Zoom level: 4x
+
+Filename: Images/Zoom/zIMG_1.ppm
+Date read: Mon 18 Dec 2017 16:01:50 GMT Standard Time
+Dimensions: 750 x 750
+Bit depth: 255
+Read time: 51ms
+Zoom level: 4x
+
+Filename: Images/Zoom/zIMG_1.ppm
+Date read: Mon 18 Dec 2017 17:41:27 GMT Standard Time
+Dimensions: 750 x 750
+Bit depth: 255
+Read time: 87ms
+Zoom level: 1x
+
+Filename: Images/Zoom/zIMG_1.ppm
+Date read: Mon 18 Dec 2017 18:06:56 GMT Standard Time
+Dimensions: 750 x 750
+Bit depth: 255
+Read time: 62ms
+Zoom level: 2x
+
+Filename: Images/Zoom/zIMG_1.ppm
+Date read: Mon 18 Dec 2017 18:58:22 GMT Standard Time
+Dimensions: 750 x 750
+Bit depth: 255
+Read time: 60ms
+Zoom level: 2x
+
+Filename: Images/Zoom/zIMG_1.ppm
+Date read: Mon 18 Dec 2017 19:00:46 GMT Standard Time
+Dimensions: 750 x 750
+Bit depth: 255
+Read time: 64ms
+Zoom level: 4x
+
+Filename: Images/Zoom/zIMG_1.ppm
+Date read: Mon 18 Dec 2017 19:57:40 GMT Standard Time
+Dimensions: 750 x 750
+Bit depth: 255
+Read time: 56ms
+Zoom level: 2x
+
+Filename: Images/Zoom/zIMG_1.ppm
+Date read: Mon 18 Dec 2017 20:05:56 GMT Standard Time
+Dimensions: 750 x 750
+Bit depth: 255
+Read time: 54ms
+Zoom level: 2x
+
+Filename: Images/Zoom/zIMG_1.ppm
+Date read: Mon 18 Dec 2017 20:07:12 GMT Standard Time
+Dimensions: 750 x 750
+Bit depth: 255
+Read time: 59ms
+Zoom level: 2x
+
+Filename: Images/Zoom/zIMG_1.ppm
+Date read: Mon 18 Dec 2017 20:21:17 GMT Standard Time
+Dimensions: 750 x 750
+Bit depth: 255
+Read time: 57ms
+Zoom level: 1x
+
+Filename: Images/Zoom/zIMG_1.ppm
+Date read: Mon 18 Dec 2017 20:24:03 GMT Standard Time
+Dimensions: 750 x 750
+Bit depth: 255
+Read time: 52ms
+Zoom level: 1x
+
+Filename: Images/Zoom/zIMG_1.ppm
+Date read: Mon 18 Dec 2017 20:26:52 GMT Standard Time
+Dimensions: 750 x 750
+Bit depth: 255
+Read time: 55ms
+Zoom level: 2x
+
+Filename: Images/Zoom/zIMG_1.ppm
+Date read: Mon 18 Dec 2017 20:32:17 GMT Standard Time
+Dimensions: 750 x 750
+Bit depth: 255
+Read time: 51ms
+Zoom level: 1x
+
+Filename: Images/Zoom/zIMG_1.ppm
+Date read: Mon 18 Dec 2017 20:50:12 GMT Standard Time
+Dimensions: 750 x 750
+Bit depth: 255
+Read time: 69ms
+Zoom level: 1x
+
+Filename: Images/Zoom/zIMG_1.ppm
+Date read: Mon 18 Dec 2017 22:03:33 GMT Standard Time
+Dimensions: 750 x 750
+Bit depth: 255
+Read time: 56ms
+Zoom level: 4x
+

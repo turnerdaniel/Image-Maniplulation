@@ -1,0 +1,840 @@
+Filename: Images/ImageStacker/IMG_1.ppm
+Date read: Wed 20 Dec 2017 10:50:17 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1014ms
+
+Filename: Images/ImageStacker/IMG_2.ppm
+Date read: Wed 20 Dec 2017 10:50:18 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1075ms
+
+Filename: Images/ImageStacker/IMG_3.ppm
+Date read: Wed 20 Dec 2017 10:50:19 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1045ms
+
+Filename: Images/ImageStacker/IMG_4.ppm
+Date read: Wed 20 Dec 2017 10:50:20 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1051ms
+
+Filename: Images/ImageStacker/IMG_5.ppm
+Date read: Wed 20 Dec 2017 10:50:21 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1067ms
+
+Filename: Images/ImageStacker/IMG_6.ppm
+Date read: Wed 20 Dec 2017 10:50:22 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1046ms
+
+Filename: Images/ImageStacker/IMG_7.ppm
+Date read: Wed 20 Dec 2017 10:50:23 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1067ms
+
+Filename: Images/ImageStacker/IMG_8.ppm
+Date read: Wed 20 Dec 2017 10:50:24 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1047ms
+
+Filename: Images/ImageStacker/IMG_9.ppm
+Date read: Wed 20 Dec 2017 10:50:25 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1048ms
+
+Filename: Images/ImageStacker/IMG_10.ppm
+Date read: Wed 20 Dec 2017 10:50:26 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1035ms
+
+Filename: Images/ImageStacker/IMG_1.ppm
+Date read: Wed 20 Dec 2017 10:52:53 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1360ms
+
+Filename: Images/ImageStacker/IMG_2.ppm
+Date read: Wed 20 Dec 2017 10:52:54 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1198ms
+
+Filename: Images/ImageStacker/IMG_3.ppm
+Date read: Wed 20 Dec 2017 10:52:56 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1139ms
+
+Filename: Images/ImageStacker/IMG_4.ppm
+Date read: Wed 20 Dec 2017 10:52:57 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1261ms
+
+Filename: Images/ImageStacker/IMG_5.ppm
+Date read: Wed 20 Dec 2017 10:52:58 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1098ms
+
+Filename: Images/ImageStacker/IMG_6.ppm
+Date read: Wed 20 Dec 2017 10:52:59 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1071ms
+
+Filename: Images/ImageStacker/IMG_7.ppm
+Date read: Wed 20 Dec 2017 10:53:00 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1043ms
+
+Filename: Images/ImageStacker/IMG_8.ppm
+Date read: Wed 20 Dec 2017 10:53:01 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1042ms
+
+Filename: Images/ImageStacker/IMG_9.ppm
+Date read: Wed 20 Dec 2017 10:53:02 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1064ms
+
+Filename: Images/ImageStacker/IMG_10.ppm
+Date read: Wed 20 Dec 2017 10:53:03 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1050ms
+
+Filename: Images/ImageStacker/IMG_1.ppm
+Date read: Wed 20 Dec 2017 11:07:46 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1037ms
+
+Filename: Images/ImageStacker/IMG_2.ppm
+Date read: Wed 20 Dec 2017 11:07:47 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1033ms
+
+Filename: Images/ImageStacker/IMG_3.ppm
+Date read: Wed 20 Dec 2017 11:07:48 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1073ms
+
+Filename: Images/ImageStacker/IMG_4.ppm
+Date read: Wed 20 Dec 2017 11:07:49 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1134ms
+
+Filename: Images/ImageStacker/IMG_5.ppm
+Date read: Wed 20 Dec 2017 11:07:51 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1102ms
+
+Filename: Images/ImageStacker/IMG_6.ppm
+Date read: Wed 20 Dec 2017 11:07:52 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1071ms
+
+Filename: Images/ImageStacker/IMG_7.ppm
+Date read: Wed 20 Dec 2017 11:07:53 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1134ms
+
+Filename: Images/ImageStacker/IMG_8.ppm
+Date read: Wed 20 Dec 2017 11:07:54 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1100ms
+
+Filename: Images/ImageStacker/IMG_9.ppm
+Date read: Wed 20 Dec 2017 11:07:55 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1126ms
+
+Filename: Images/ImageStacker/IMG_10.ppm
+Date read: Wed 20 Dec 2017 11:07:56 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1075ms
+
+Filename: Images/ImageStacker/IMG_1.ppm
+Date read: Wed 20 Dec 2017 11:16:21 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1034ms
+
+Filename: Images/ImageStacker/IMG_2.ppm
+Date read: Wed 20 Dec 2017 11:16:22 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1082ms
+
+Filename: Images/ImageStacker/IMG_3.ppm
+Date read: Wed 20 Dec 2017 11:16:23 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1068ms
+
+Filename: Images/ImageStacker/IMG_4.ppm
+Date read: Wed 20 Dec 2017 11:16:25 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1081ms
+
+Filename: Images/ImageStacker/IMG_5.ppm
+Date read: Wed 20 Dec 2017 11:16:26 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1112ms
+
+Filename: Images/ImageStacker/IMG_6.ppm
+Date read: Wed 20 Dec 2017 11:16:27 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1447ms
+
+Filename: Images/ImageStacker/IMG_7.ppm
+Date read: Wed 20 Dec 2017 11:16:28 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1190ms
+
+Filename: Images/ImageStacker/IMG_8.ppm
+Date read: Wed 20 Dec 2017 11:16:29 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1194ms
+
+Filename: Images/ImageStacker/IMG_9.ppm
+Date read: Wed 20 Dec 2017 11:16:31 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1094ms
+
+Filename: Images/ImageStacker/IMG_10.ppm
+Date read: Wed 20 Dec 2017 11:16:32 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1130ms
+
+Filename: Images/ImageStacker/IMG_1.ppm
+Date read: Wed 20 Dec 2017 11:39:23 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1052ms
+
+Filename: Images/ImageStacker/IMG_2.ppm
+Date read: Wed 20 Dec 2017 11:39:25 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1047ms
+
+Filename: Images/ImageStacker/IMG_3.ppm
+Date read: Wed 20 Dec 2017 11:39:26 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1042ms
+
+Filename: Images/ImageStacker/IMG_4.ppm
+Date read: Wed 20 Dec 2017 11:39:27 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1049ms
+
+Filename: Images/ImageStacker/IMG_5.ppm
+Date read: Wed 20 Dec 2017 11:39:28 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1028ms
+
+Filename: Images/ImageStacker/IMG_6.ppm
+Date read: Wed 20 Dec 2017 11:39:29 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1015ms
+
+Filename: Images/ImageStacker/IMG_7.ppm
+Date read: Wed 20 Dec 2017 11:39:30 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1029ms
+
+Filename: Images/ImageStacker/IMG_8.ppm
+Date read: Wed 20 Dec 2017 11:39:31 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1027ms
+
+Filename: Images/ImageStacker/IMG_9.ppm
+Date read: Wed 20 Dec 2017 11:39:32 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1031ms
+
+Filename: Images/ImageStacker/IMG_10.ppm
+Date read: Wed 20 Dec 2017 11:39:33 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1028ms
+
+Filename: Images/ImageStacker/IMG_1.ppm
+Date read: Wed 20 Dec 2017 11:44:30 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1684ms
+
+Filename: Images/ImageStacker/IMG_2.ppm
+Date read: Wed 20 Dec 2017 11:44:32 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1416ms
+
+Filename: Images/ImageStacker/IMG_3.ppm
+Date read: Wed 20 Dec 2017 11:44:33 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1125ms
+
+Filename: Images/ImageStacker/IMG_4.ppm
+Date read: Wed 20 Dec 2017 11:44:34 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1083ms
+
+Filename: Images/ImageStacker/IMG_5.ppm
+Date read: Wed 20 Dec 2017 11:44:35 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1091ms
+
+Filename: Images/ImageStacker/IMG_6.ppm
+Date read: Wed 20 Dec 2017 11:44:37 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1066ms
+
+Filename: Images/ImageStacker/IMG_7.ppm
+Date read: Wed 20 Dec 2017 11:44:38 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1072ms
+
+Filename: Images/ImageStacker/IMG_8.ppm
+Date read: Wed 20 Dec 2017 11:44:39 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1080ms
+
+Filename: Images/ImageStacker/IMG_9.ppm
+Date read: Wed 20 Dec 2017 11:44:40 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1063ms
+
+Filename: Images/ImageStacker/IMG_10.ppm
+Date read: Wed 20 Dec 2017 11:44:41 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1078ms
+
+Filename: Images/ImageStacker/IMG_1.ppm
+Date read: Wed 20 Dec 2017 12:03:57 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1076ms
+
+Filename: Images/ImageStacker/IMG_2.ppm
+Date read: Wed 20 Dec 2017 12:03:58 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1070ms
+
+Filename: Images/ImageStacker/IMG_3.ppm
+Date read: Wed 20 Dec 2017 12:03:59 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1070ms
+
+Filename: Images/ImageStacker/IMG_4.ppm
+Date read: Wed 20 Dec 2017 12:04:00 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1057ms
+
+Filename: Images/ImageStacker/IMG_5.ppm
+Date read: Wed 20 Dec 2017 12:04:01 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1092ms
+
+Filename: Images/ImageStacker/IMG_6.ppm
+Date read: Wed 20 Dec 2017 12:04:02 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1080ms
+
+Filename: Images/ImageStacker/IMG_7.ppm
+Date read: Wed 20 Dec 2017 12:04:03 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1063ms
+
+Filename: Images/ImageStacker/IMG_8.ppm
+Date read: Wed 20 Dec 2017 12:04:04 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1078ms
+
+Filename: Images/ImageStacker/IMG_9.ppm
+Date read: Wed 20 Dec 2017 12:04:05 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1071ms
+
+Filename: Images/ImageStacker/IMG_10.ppm
+Date read: Wed 20 Dec 2017 12:04:06 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1103ms
+
+Filename: Images/ImageStacker/IMG_1.ppm
+Date read: Wed 20 Dec 2017 12:06:54 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1024ms
+
+Filename: Images/ImageStacker/IMG_2.ppm
+Date read: Wed 20 Dec 2017 12:06:55 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1033ms
+
+Filename: Images/ImageStacker/IMG_3.ppm
+Date read: Wed 20 Dec 2017 12:06:56 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1025ms
+
+Filename: Images/ImageStacker/IMG_4.ppm
+Date read: Wed 20 Dec 2017 12:06:57 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1020ms
+
+Filename: Images/ImageStacker/IMG_5.ppm
+Date read: Wed 20 Dec 2017 12:06:58 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1031ms
+
+Filename: Images/ImageStacker/IMG_6.ppm
+Date read: Wed 20 Dec 2017 12:07:00 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1022ms
+
+Filename: Images/ImageStacker/IMG_7.ppm
+Date read: Wed 20 Dec 2017 12:07:01 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1029ms
+
+Filename: Images/ImageStacker/IMG_8.ppm
+Date read: Wed 20 Dec 2017 12:07:02 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1027ms
+
+Filename: Images/ImageStacker/IMG_9.ppm
+Date read: Wed 20 Dec 2017 12:07:03 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1039ms
+
+Filename: Images/ImageStacker/IMG_10.ppm
+Date read: Wed 20 Dec 2017 12:07:04 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1029ms
+
+Filename: Images/ImageStacker/IMG_1.ppm
+Date read: Wed 20 Dec 2017 17:26:20 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1102ms
+
+Filename: Images/ImageStacker/IMG_2.ppm
+Date read: Wed 20 Dec 2017 17:26:21 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1032ms
+
+Filename: Images/ImageStacker/IMG_3.ppm
+Date read: Wed 20 Dec 2017 17:26:22 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1078ms
+
+Filename: Images/ImageStacker/IMG_4.ppm
+Date read: Wed 20 Dec 2017 17:26:23 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1150ms
+
+Filename: Images/ImageStacker/IMG_5.ppm
+Date read: Wed 20 Dec 2017 17:26:24 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1043ms
+
+Filename: Images/ImageStacker/IMG_6.ppm
+Date read: Wed 20 Dec 2017 17:26:25 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1028ms
+
+Filename: Images/ImageStacker/IMG_7.ppm
+Date read: Wed 20 Dec 2017 17:26:26 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1044ms
+
+Filename: Images/ImageStacker/IMG_8.ppm
+Date read: Wed 20 Dec 2017 17:26:28 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1030ms
+
+Filename: Images/ImageStacker/IMG_9.ppm
+Date read: Wed 20 Dec 2017 17:26:29 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1029ms
+
+Filename: Images/ImageStacker/IMG_10.ppm
+Date read: Wed 20 Dec 2017 17:26:30 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1033ms
+
+Filename: Images/ImageStacker/IMG_1.ppm
+Date read: Wed 20 Dec 2017 18:12:03 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1558ms
+
+Filename: Images/ImageStacker/IMG_2.ppm
+Date read: Wed 20 Dec 2017 18:12:05 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1411ms
+
+Filename: Images/ImageStacker/IMG_3.ppm
+Date read: Wed 20 Dec 2017 18:12:06 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1110ms
+
+Filename: Images/ImageStacker/IMG_4.ppm
+Date read: Wed 20 Dec 2017 18:12:07 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1098ms
+
+Filename: Images/ImageStacker/IMG_5.ppm
+Date read: Wed 20 Dec 2017 18:12:08 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1098ms
+
+Filename: Images/ImageStacker/IMG_6.ppm
+Date read: Wed 20 Dec 2017 18:12:09 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1084ms
+
+Filename: Images/ImageStacker/IMG_7.ppm
+Date read: Wed 20 Dec 2017 18:12:10 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1078ms
+
+Filename: Images/ImageStacker/IMG_8.ppm
+Date read: Wed 20 Dec 2017 18:12:11 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1088ms
+
+Filename: Images/ImageStacker/IMG_9.ppm
+Date read: Wed 20 Dec 2017 18:12:13 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1083ms
+
+Filename: Images/ImageStacker/IMG_10.ppm
+Date read: Wed 20 Dec 2017 18:12:14 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1070ms
+
+Filename: Images/ImageStacker/IMG_1.ppm
+Date read: Wed 20 Dec 2017 18:13:21 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1026ms
+
+Filename: Images/ImageStacker/IMG_2.ppm
+Date read: Wed 20 Dec 2017 18:13:22 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1028ms
+
+Filename: Images/ImageStacker/IMG_3.ppm
+Date read: Wed 20 Dec 2017 18:13:23 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1023ms
+
+Filename: Images/ImageStacker/IMG_4.ppm
+Date read: Wed 20 Dec 2017 18:13:24 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1022ms
+
+Filename: Images/ImageStacker/IMG_5.ppm
+Date read: Wed 20 Dec 2017 18:13:25 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1031ms
+
+Filename: Images/ImageStacker/IMG_6.ppm
+Date read: Wed 20 Dec 2017 18:13:26 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1027ms
+
+Filename: Images/ImageStacker/IMG_7.ppm
+Date read: Wed 20 Dec 2017 18:13:27 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1028ms
+
+Filename: Images/ImageStacker/IMG_8.ppm
+Date read: Wed 20 Dec 2017 18:13:28 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1040ms
+
+Filename: Images/ImageStacker/IMG_9.ppm
+Date read: Wed 20 Dec 2017 18:13:29 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1057ms
+
+Filename: Images/ImageStacker/IMG_10.ppm
+Date read: Wed 20 Dec 2017 18:13:30 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1026ms
+
+Filename: Images/ImageStacker/IMG_1.ppm
+Date read: Wed 20 Dec 2017 22:17:53 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1056ms
+
+Filename: Images/ImageStacker/IMG_2.ppm
+Date read: Wed 20 Dec 2017 22:17:54 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1040ms
+
+Filename: Images/ImageStacker/IMG_3.ppm
+Date read: Wed 20 Dec 2017 22:17:55 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1035ms
+
+Filename: Images/ImageStacker/IMG_4.ppm
+Date read: Wed 20 Dec 2017 22:17:56 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1051ms
+
+Filename: Images/ImageStacker/IMG_5.ppm
+Date read: Wed 20 Dec 2017 22:17:57 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1061ms
+
+Filename: Images/ImageStacker/IMG_6.ppm
+Date read: Wed 20 Dec 2017 22:17:58 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1074ms
+
+Filename: Images/ImageStacker/IMG_7.ppm
+Date read: Wed 20 Dec 2017 22:17:59 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1040ms
+
+Filename: Images/ImageStacker/IMG_8.ppm
+Date read: Wed 20 Dec 2017 22:18:00 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1039ms
+
+Filename: Images/ImageStacker/IMG_9.ppm
+Date read: Wed 20 Dec 2017 22:18:01 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1141ms
+
+Filename: Images/ImageStacker/IMG_10.ppm
+Date read: Wed 20 Dec 2017 22:18:02 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1075ms
+
+Filename: Images/ImageStacker/IMG_1.ppm
+Date read: Wed 20 Dec 2017 22:21:13 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1083ms
+
+Filename: Images/ImageStacker/IMG_2.ppm
+Date read: Wed 20 Dec 2017 22:21:14 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1076ms
+
+Filename: Images/ImageStacker/IMG_3.ppm
+Date read: Wed 20 Dec 2017 22:21:15 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1237ms
+
+Filename: Images/ImageStacker/IMG_4.ppm
+Date read: Wed 20 Dec 2017 22:21:16 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1053ms
+
+Filename: Images/ImageStacker/IMG_5.ppm
+Date read: Wed 20 Dec 2017 22:21:17 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1030ms
+
+Filename: Images/ImageStacker/IMG_6.ppm
+Date read: Wed 20 Dec 2017 22:21:19 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1047ms
+
+Filename: Images/ImageStacker/IMG_7.ppm
+Date read: Wed 20 Dec 2017 22:21:20 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1028ms
+
+Filename: Images/ImageStacker/IMG_8.ppm
+Date read: Wed 20 Dec 2017 22:21:21 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1026ms
+
+Filename: Images/ImageStacker/IMG_9.ppm
+Date read: Wed 20 Dec 2017 22:21:22 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1020ms
+
+Filename: Images/ImageStacker/IMG_10.ppm
+Date read: Wed 20 Dec 2017 22:21:23 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1023ms
+
+Filename: Images/ImageStacker/IMG_1.ppm
+Date read: Wed 20 Dec 2017 22:24:51 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1045ms
+
+Filename: Images/ImageStacker/IMG_2.ppm
+Date read: Wed 20 Dec 2017 22:24:52 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1030ms
+
+Filename: Images/ImageStacker/IMG_3.ppm
+Date read: Wed 20 Dec 2017 22:24:53 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1026ms
+
+Filename: Images/ImageStacker/IMG_4.ppm
+Date read: Wed 20 Dec 2017 22:24:54 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1021ms
+
+Filename: Images/ImageStacker/IMG_5.ppm
+Date read: Wed 20 Dec 2017 22:24:55 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1024ms
+
+Filename: Images/ImageStacker/IMG_6.ppm
+Date read: Wed 20 Dec 2017 22:24:56 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1025ms
+
+Filename: Images/ImageStacker/IMG_7.ppm
+Date read: Wed 20 Dec 2017 22:24:57 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1020ms
+
+Filename: Images/ImageStacker/IMG_8.ppm
+Date read: Wed 20 Dec 2017 22:24:58 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1026ms
+
+Filename: Images/ImageStacker/IMG_9.ppm
+Date read: Wed 20 Dec 2017 22:24:59 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1030ms
+
+Filename: Images/ImageStacker/IMG_10.ppm
+Date read: Wed 20 Dec 2017 22:25:00 GMT Standard Time
+Dimensions: 4200 x 2800
+Bit depth: 255
+Read time: 1033ms
+

@@ -1,0 +1,98 @@
+Filename: Images/Zoom/zIMG_1.ppm
+Date read: Wed 20 Dec 2017 10:51:08 GMT Standard Time
+Dimensions: 750 x 750
+Bit depth: 255
+Read time: 82ms
+Zoom level: 2x
+
+Filename: Images/Zoom/zIMG_1.ppm
+Date read: Wed 20 Dec 2017 10:53:46 GMT Standard Time
+Dimensions: 750 x 750
+Bit depth: 255
+Read time: 51ms
+Zoom level: 4x
+
+Filename: Images/Zoom/zIMG_1.ppm
+Date read: Wed 20 Dec 2017 11:09:40 GMT Standard Time
+Dimensions: 750 x 750
+Bit depth: 255
+Read time: 87ms
+Zoom level: 1x
+
+Filename: Images/Zoom/zIMG_1.ppm
+Date read: Wed 20 Dec 2017 11:17:03 GMT Standard Time
+Dimensions: 750 x 750
+Bit depth: 255
+Read time: 66ms
+Zoom level: 2x
+
+Filename: Images/Zoom/zIMG_1.ppm
+Date read: Wed 20 Dec 2017 11:40:07 GMT Standard Time
+Dimensions: 750 x 750
+Bit depth: 255
+Read time: 60ms
+Zoom level: 1x
+
+Filename: Images/Zoom/zIMG_1.ppm
+Date read: Wed 20 Dec 2017 11:45:16 GMT Standard Time
+Dimensions: 750 x 750
+Bit depth: 255
+Read time: 63ms
+Zoom level: 2x
+
+Filename: Images/Zoom/zIMG_1.ppm
+Date read: Wed 20 Dec 2017 12:04:57 GMT Standard Time
+Dimensions: 750 x 750
+Bit depth: 255
+Read time: 61ms
+Zoom level: 4x
+
+Filename: Images/Zoom/zIMG_1.ppm
+Date read: Wed 20 Dec 2017 12:08:50 GMT Standard Time
+Dimensions: 750 x 750
+Bit depth: 255
+Read time: 50ms
+Zoom level: 4x
+
+Filename: Images/Zoom/zIMG_1.ppm
+Date read: Wed 20 Dec 2017 17:26:58 GMT Standard Time
+Dimensions: 750 x 750
+Bit depth: 255
+Read time: 80ms
+Zoom level: 2x
+
+Filename: Images/Zoom/zIMG_1.ppm
+Date read: Wed 20 Dec 2017 18:12:58 GMT Standard Time
+Dimensions: 750 x 750
+Bit depth: 255
+Read time: 85ms
+Zoom level: 2x
+
+Filename: Images/Zoom/zIMG_1.ppm
+Date read: Wed 20 Dec 2017 18:14:16 GMT Standard Time
+Dimensions: 750 x 750
+Bit depth: 255
+Read time: 52ms
+Zoom level: 4x
+
+Filename: Images/Zoom/zIMG_1.ppm
+Date read: Wed 20 Dec 2017 22:18:41 GMT Standard Time
+Dimensions: 750 x 750
+Bit depth: 255
+Read time: 89ms
+Zoom level: 2x
+
+Filename: Images/Zoom/zIMG_1.ppm
+Date read: Wed 20 Dec 2017 22:22:01 GMT Standard Time
+Dimensions: 750 x 750
+Bit depth: 255
+Read time: 57ms
+Zoom level: 4x
+
+Filename: Images/Zoom/zIMG_1.ppm
+Date read: Wed 20 Dec 2017 22:25:21 GMT Standard Time
+Dimensions: 750 x 750
+Bit depth: 255
+Read time: 70ms
+Zoom level: 1x
+
